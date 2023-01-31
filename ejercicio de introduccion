@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio de Introduccion a HTML en OpenBootcamp</title>
+    </head>
+    <body>
+        <h1>Este es mi primer comentario de dos lineas</h1>
+        <h1>aprendiendo a documentar mi codigo con OpenBootcamp</h1>
+        <div>
+    <h3>listas</h3>
+        </div>
+        <div>
+    <h4>
+    <ul>
+        <li> 
+            <a href= "https://www.youtube.com/watch?v=_9SgawMKmdo">Infinity </a> 
+        </li>
+        <li>
+            <a href= "https://www.youtube.com/watch?v=Fm4WiX6i1FE&list=RDEMW7oEwSFje-Yb8CP0FduL5g&start_radio=1&rv=CQLsdm1ZYAw">Calm Down</a> 
+        </li>
+        <li>
+            <a href= "https://www.youtube.com/watch?v=VA7hD4d5CPA">Parcera - Pailita </a> 
+        </li>
+    </ul>
+        
+    </div>
+    </h4>
+    
+
+
+    </body>
+</html>
